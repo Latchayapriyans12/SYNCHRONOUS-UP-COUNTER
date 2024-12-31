@@ -105,17 +105,18 @@ RegisterNumber:24900388
 
 
 **RTL LOGIC UP COUNTER**
-![399091359-dcddffba-bdec-457d-b798-e02e4c8e924a](https://github.com/user-attachments/assets/aa91f8be-f461-4b92-8f1d-9446b306907c)
+
+![image](https://github.com/user-attachments/assets/09c94ee1-c2e2-4937-9fe8-107836456ffb)
 
 
 **TIMING DIAGRAM FOR IP COUNTER**
 
-![399091421-8c68d47c-b049-4a8c-8135-7934a1dfa7f2](https://github.com/user-attachments/assets/aa549e9a-9709-4500-9b3d-7784588d8936)
+![image](https://github.com/user-attachments/assets/8fe53c69-2e07-4311-9212-314f227ffa30)
 
 
 **TRUTH TABLE**
 
-![396421658-1862c80c-d030-4e4b-be7d-36e0c3dc566f](https://github.com/user-attachments/assets/0a54a51e-3db3-4570-b282-42d7afb48655)
+![image](https://github.com/user-attachments/assets/e30300df-52bd-4d8b-81bb-aaf394fe75db)
 
 
 **RESULTS**
